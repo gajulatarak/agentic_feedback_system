@@ -1,0 +1,7 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+R001,review,Bug,Critical,"Device: Samsung S22 Android 14. App Version: 3.0.1. Steps: 1. Navigate to document. 2. Click export PDF. 3. App crashes immediately.",Critical: PDF Export Crash on Android
+R002,review,Praise,Low,"User appreciates new dashboard redesign in version 3.0.1",Positive Feedback: Dashboard Layout
+R003,review,Bug,Critical,"Login failure post-update. Error: Invalid token. App Version: 3.0.1. Platform: Google Play.",Critical: Login Authentication Failure After Update
+R004,review,Feature Request,Medium,"User requesting dark mode/theme feature for better night-time usage",Feature Request: Dark Mode Implementation
+E001,email,Bug,Critical,"Device: iPhone 15 iOS 18. Reproduction: 1. Open app 2. Select file upload 3. Choose file 4. App crashes during upload process",Critical: File Upload Crash on iOS
+E002,email,Feature Request,Medium,"User requesting dark mode feature for improved night usage experience",Feature Request: Dark Mode for Night Usage

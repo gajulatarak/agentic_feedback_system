@@ -1,0 +1,5 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"App crashes when I try to export PDF. Using Samsung S22 Android 14.",john_doe,2026-02-10,3.0.1
+R002,App Store,5,"Amazing app! Love the new dashboard layout.",emma_w,2026-02-11,3.0.1
+R003,Google Play,2,"Can't login since update. Keeps saying invalid token.",mike87,2026-02-12,3.0.1
+R004,App Store,4,"Would love to see dark mode added.",lisa_app,2026-02-12,3.0.1

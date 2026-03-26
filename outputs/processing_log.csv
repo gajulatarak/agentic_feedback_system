@@ -1,0 +1,7 @@
+timestamp,source_id,source_type,category,priority,confidence,sentiment,bug_confidence,feature_confidence,category_confidence,priority_confidence,sentiment_confidence,ticket_id,ticket_title,processing_time_ms,status
+2026-03-03 20:31:19,R001,review,Bug,Critical,0.48,negative,0.33,0.0,0.33,0.33,1.0,319e8bae,Critical: App Crash - App crashes when I try,5.15,success
+2026-03-03 20:31:19,R002,review,Praise,Low,0.55,positive,0.0,0.0,0.7999999999999999,0.0,1.0,d43f44cf,Low: Positive Feedback - R002,4.57,success
+2026-03-03 20:31:19,R003,review,Bug,Critical,0.58,negative,0.43,0.0,0.43,0.43,0.85,39c20c93,Critical: Login Issue - R003,4.0,success
+2026-03-03 20:31:19,R004,review,Feature Request,Medium,0.54,positive,0.0,0.77,0.77,0.0,0.95,92c779e6,Medium: Feature Request - Dark Mode,4.33,success
+2026-03-03 20:31:19,E001,email,Bug,Critical,0.58,neutral,0.43,0.0,0.43,0.43,0.5,6d02dcd9,Critical: App Crash - App Crash Report The app,0.0,success
+2026-03-03 20:31:19,E002,email,Feature Request,Medium,0.65,neutral,0.0,1.0,1.0,0.0,0.5,f8b7fb45,Medium: Feature Request - Dark Mode,14.27,success

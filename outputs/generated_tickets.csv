@@ -1,0 +1,7 @@
+ticket_id,source_id,source_type,category,priority,confidence,sentiment,title,description,technical_details,status,created_at,assigned_to,resolution,bug_confidence,feature_confidence,category_confidence,priority_confidence,sentiment_confidence
+319e8bae,R001,review,Bug,Critical,0.48,negative,Critical: App Crash - App crashes when I try,App crashes when I try to export PDF. Using Samsung S22 Android 14.,Samsung,Open,2026-03-03 20:31:19,,,0.33,0.0,0.33,0.33,1.0
+d43f44cf,R002,review,Praise,Low,0.55,positive,Low: Positive Feedback - R002,Amazing app! Love the new dashboard layout.,N/A,Open,2026-03-03 20:31:19,,,0.0,0.0,0.7999999999999999,0.0,1.0
+39c20c93,R003,review,Bug,Critical,0.58,negative,Critical: Login Issue - R003,Can't login since update. Keeps saying invalid token.,N/A,Open,2026-03-03 20:31:19,,,0.43,0.0,0.43,0.43,0.85
+92c779e6,R004,review,Feature Request,Medium,0.54,positive,Medium: Feature Request - Dark Mode,Would love to see dark mode added.,N/A,Open,2026-03-03 20:31:19,,,0.0,0.77,0.77,0.0,0.95
+6d02dcd9,E001,email,Bug,Critical,0.58,neutral,Critical: App Crash - App Crash Report The app,App Crash Report The app crashes when uploading files. iPhone 15 iOS 18. Steps: 1. Open app 2. Upload file 3. Crash.,iPhone; Steps: 1,Open,2026-03-03 20:31:19,,,0.43,0.0,0.43,0.43,0.5
+f8b7fb45,E002,email,Feature Request,Medium,0.65,neutral,Medium: Feature Request - Dark Mode,Feature Request: Dark Mode It would be great if you could add dark mode for night usage.,N/A,Open,2026-03-03 20:31:19,,,0.0,1.0,1.0,0.0,0.5

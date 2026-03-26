@@ -1,0 +1,4 @@
+timestamp,total_processed,successful_classifications,failed_classifications,avg_confidence,min_confidence,max_confidence,avg_processing_time_ms,total_processing_time_seconds,throughput_items_per_second,bugs_detected,features_detected,praise_detected,complaints_detected,critical_priority,high_priority,medium_priority,low_priority,positive_sentiment,negative_sentiment,neutral_sentiment
+2026-03-03 19:50:29,6,6,0,0.563,0.48,0.65,5.94,0.09,66.67,3,2,1,0,3,0,2,1,2,2,2
+2026-03-03 20:06:00,6,6,0,0.563,0.48,0.65,1.16,0.03,200.0,3,2,1,0,3,0,2,1,2,2,2
+2026-03-03 20:31:19,6,6,0,0.563,0.48,0.65,5.39,0.08,75.0,3,2,1,0,3,0,2,1,2,2,2
