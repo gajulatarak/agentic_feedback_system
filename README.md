@@ -234,7 +234,7 @@ python -m streamlit run app.py
 
 ## License
 
-This project is part of the Takeda Agentic Feedback System.
+This project is part of the Agentic Feedback System.
 
 ## Author
 
